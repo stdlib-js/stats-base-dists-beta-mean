@@ -69,7 +69,7 @@ where `α > 0` is the first shape parameter and `β > 0` is the second shape par
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-mean@v0.2.0-esm/index.mjs';
 ```
 
 #### mean( alpha, beta )
@@ -145,7 +145,7 @@ v = mean( 1.0, -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-mean@v0.2.0-esm/index.mjs';
 
 var alpha;
 var beta;
