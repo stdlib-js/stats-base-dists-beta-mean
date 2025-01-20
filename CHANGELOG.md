@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-12)
+## Unreleased (2025-01-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`cc32a34`](https://github.com/stdlib-js/stdlib/commit/cc32a344ed92962e2168da1f961748f934238cf8) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`f468acc`](https://github.com/stdlib-js/stdlib/commit/f468acc638bd724390c759a0b39ad07ce97b3313) - **feat:** add C implementation for `stats/base/dists/beta/mean` [(#3895)](https://github.com/stdlib-js/stdlib/pull/3895) _(by Vivek Maurya, Philipp Burckhardt)_
 
