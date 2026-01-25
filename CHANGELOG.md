@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-07-28)
+## 0.3.0 (2026-01-25)
 
 <section class="features">
 
@@ -44,10 +44,11 @@ This release closes the following issue:
 
 <details>
 
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`f4db760`](https://github.com/stdlib-js/stdlib/commit/f4db760aad4b1c889341eb7d531b13fbd529226f) - **docs:** update `stats/base/dists/beta` examples to use Greek symbols in format strings _(by Philipp Burckhardt)_
 -   [`cad35db`](https://github.com/stdlib-js/stdlib/commit/cad35dba29ed6e097d9d5955a0db6165398baf78) - **fix:** remove unused eps dependency from build task in beta/mean _(by Philipp Burckhardt)_
--   [`3ba6db7`](https://github.com/stdlib-js/stdlib/commit/3ba6db72e6cb7e636d62c71e73a283f69beafdca) - **bench:** update random value generation [(#6811)](https://github.com/stdlib-js/stdlib/pull/6811) _(by Harsh)_
--   [`70429b3`](https://github.com/stdlib-js/stdlib/commit/70429b300e75b81b55f1192e0dfc6ab7f5ae9dc1) - **docs:** replace manual `for` loop in examples [(#6792)](https://github.com/stdlib-js/stdlib/pull/6792) _(by Harsh)_
+-   [`3ba6db7`](https://github.com/stdlib-js/stdlib/commit/3ba6db72e6cb7e636d62c71e73a283f69beafdca) - **bench:** update random value generation [(#6811)](https://github.com/stdlib-js/stdlib/pull/6811) _(by Harsh Yadav)_
+-   [`70429b3`](https://github.com/stdlib-js/stdlib/commit/70429b300e75b81b55f1192e0dfc6ab7f5ae9dc1) - **docs:** replace manual `for` loop in examples [(#6792)](https://github.com/stdlib-js/stdlib/pull/6792) _(by Harsh Yadav)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`9394549`](https://github.com/stdlib-js/stdlib/commit/939454926b745326a5b14bcd0924a0526baa93da) - **bench:** refactor random number generation in `stats/base/dists/beta` [(#4837)](https://github.com/stdlib-js/stdlib/pull/4837) _(by Karan Anand)_
@@ -67,7 +68,7 @@ This release closes the following issue:
 
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
