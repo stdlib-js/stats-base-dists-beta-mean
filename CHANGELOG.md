@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-03)
+## Unreleased (2026-02-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 -   [`9d71f4b`](https://github.com/stdlib-js/stdlib/commit/9d71f4b4d116829abcea63c67ffb7b61d798e11c) - **bench:** refactor to use string interpolation in `stats/base/dists/beta` [(#10049)](https://github.com/stdlib-js/stdlib/pull/10049) _(by Harsh Yadav)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh Yadav
+-   Philipp Burckhardt
 
 </section>
 
